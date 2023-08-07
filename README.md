@@ -2,7 +2,7 @@
 
 A Magic 8 Ball Flutter project.
 
-## Getting Started
+## Description
 
 This Magic 8 ball will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
 
